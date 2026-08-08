@@ -1,6 +1,8 @@
 # Hybrid Quantum–Classical Call-Center Staffing Optimization
 # WISER Global Quantum+AI Program 2026 — Nestlé Challenge Team Zero dyn
 
+-- Team Member - Abdullah Kazi , Responsibilities - Team Lead 
+
 > formulates dual-constrained workforce staffing as a
 > binary optimization problem, solves reduced instances with classical, quantum-inspired, and
 > gate-based methods, and validates every candidate against **true Erlang-C SLA and ASA** —
@@ -393,7 +395,5 @@ own licenses.
 
 ## Disclaimer
 
-This repository is a **research prototype** for an academic/industry challenge. It is not a
-production workforce-management system, not a guarantee of hardware speedup, and not a
-substitute for site-specific forecasting, labor law, or operational validation. Results apply
-to the documented synthetic instances and solver settings.
+This repository is a **research prototype** for an academic/industry challenge. . Results apply
+to the documented synthetic instances and solver settings. Built for the WISER 2026 Quantum Challenge. The challenge datasets remain subject to the organizer's data usage and confidentiality rules. This repository contains only challenge-approved anonymized data, synthetic data  and aggregate metrics.
