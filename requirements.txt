@@ -1,1 +1,25 @@
-.
+# Call-center hybrid staffing — Python dependencies
+# Python 3.10+ recommended (3.11–3.12 tested in notebooks)
+
+# Core numerics / data
+numpy>=1.24,<3
+pandas>=2.0,<3
+scipy>=1.10,<2
+
+# Classical MIP baseline (CBC via PuLP)
+pulp>=2.7
+
+# Plotting
+matplotlib>=3.7,<4
+# seaborn>=0.13   # optional
+
+# Quantum (CVaR-QAOA / PCE notebooks)
+qiskit>=1.0,<3
+qiskit-aer>=0.13
+
+# Notebook tooling (optional — rebuild / execute helpers)
+nbformat>=5.9
+# nbconvert>=7.0
+
+# Forecasting helpers (optional)
+# statsmodels>=0.14
