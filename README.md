@@ -1,14 +1,14 @@
 # Hybrid Quantum–Classical Call-Center Staffing Optimization
 # WISER Global Quantum+AI Program 2026 — Nestlé Challenge Team Zero dyn
 
-> A reproducible research platform that formulates dual-constrained workforce staffing as a
+> formulates dual-constrained workforce staffing as a
 > binary optimization problem, solves reduced instances with classical, quantum-inspired, and
 > gate-based methods, and validates every candidate against **true Erlang-C SLA and ASA** —
 > with an exact dual-feasible optimum as ground truth, not a single “beats greedy” headline.
 
 ---
 
-## In 60 seconds
+## What is the project about
 
 **What it is.** A reproducible platform that encodes call-center shift staffing as a slack-free
 QUBO (cost + SLA/ASA shortfall penalties), solves it with classical heuristics, exact
